@@ -29,9 +29,7 @@ NETFLIX/
 │   ├── package.json
 │   └── package-lock.json
 
-
-
-Features
+✨ Features
 🔐 Login authentication with Express API
 ⚛️ React Router navigation
 📩 Axios API requests
@@ -39,39 +37,6 @@ Features
 ⚡ Built with Vite for fast performance
 🚫 Error handling for invalid login
 ✅ Redirect to Dashboard after login
-🛠️ Tech Stack
-Frontend
-React.js
-Vite
-Tailwind CSS
-Axios
-React Router DOM
-Backend
-Node.js
-Express.js
-CORS
-Deployment
-Vercel (Frontend)
-Render (Backend)
-🔑 Demo Credentials
-Email: poovarasan@netflixclone.com
-Password: Remember@9
-📦 Installation
-Frontend
-cd frontend
-npm install
-npm run dev
-Backend
-cd backend
-npm install
-node server.js
-📌 Future Improvements
-JWT Authentication
-MongoDB Database
-Signup Page
-Forgot Password
-User Profiles
-Real Movie API Integration
-👨‍💻 Author
 
-Poovarasan999
+
+
