@@ -1,42 +1,68 @@
 # 🎬 Netflix Login Clone
 
-A full-stack Netflix-style login application built using **React + Vite + Tailwind CSS** for the frontend and **Node.js + Express** for the backend. Includes API integration, form validation, authentication, and dashboard redirect.
+A full-stack Netflix style login project built using React, Vite, Tailwind CSS, Node.js, and Express.
 
 ## 🚀 Live Demo
-- Frontend: https://movie-ui-demo.vercel.app
-- Backend API: https://netflix-login-7ve0.onrender.com
+Frontend: https://movie-ui-demo.vercel.app  
+Backend: https://netflix-login-7ve0.onrender.com
 
----
+## ✨ Features
+- Netflix inspired UI
+- Login Authentication
+- API Integration using Axios
+- React Router Navigation
+- Error Handling
+- Dashboard Redirect
+- Responsive Design
 
-## 📂 Project Structure
+## 🛠 Tech Stack
 
-```bash
+### Frontend
+- React.js
+- Vite
+- Tailwind CSS
+- Axios
+- React Router DOM
+
+### Backend
+- Node.js
+- Express.js
+- CORS
+
+### Deployment
+- Vercel (Frontend)
+- Render (Backend)
+
+## 🔑 Demo Login
+Email: poovarasan@netflixclone.com  
+Password: Remember@9
+
+## 📂 Folder Structure
 NETFLIX/
 ├── backend/
-│   ├── server.js
-│   ├── package.json
-│   └── package-lock.json
-│
+│   └── server.js
 ├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── App.jsx
-│   │   ├── App.css
-│   │   ├── index.css
-│   │   └── main.jsx
-│   ├── vite.config.js
-│   ├── package.json
-│   └── package-lock.json
+│   └── src/
+│       └── App.jsx
 
-✨ Features
-🔐 Login authentication with Express API
-⚛️ React Router navigation
-📩 Axios API requests
-🎨 Netflix-inspired responsive UI
-⚡ Built with Vite for fast performance
-🚫 Error handling for invalid login
-✅ Redirect to Dashboard after login
+## ⚙ Run Project
 
+### Frontend
+cd frontend  
+npm install  
+npm run dev
 
+### Backend
+cd backend  
+npm install  
+node server.js
 
+## 📌 Future Updates
+- JWT Auth
+- MongoDB
+- Signup Page
+- Forgot Password
+- Real Movie API
+
+## 👨‍💻 Author
+Poovarasan999
