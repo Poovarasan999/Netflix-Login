@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-label="Netflix favicon">
+  <rect width="64" height="64" rx="10" fill="#0b0b0b" />
+  <path d="M19 10h10l16 44H35z" fill="#e50914" />
+  <path d="M35 10h10v44H35z" fill="#b00610" />
+  <path d="M19 10h10v44H19z" fill="#ff1f2e" />
+</svg>
